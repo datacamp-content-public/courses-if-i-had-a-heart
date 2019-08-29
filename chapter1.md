@@ -44,3 +44,41 @@ print('awesome')
 Ex().has_output("awesome", pattern = False)
 success_msg('Congratulations! Your path to awesomeness has began!')
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: 1e85212270
+xp: 100
+```
+
+oho this is a new exercise ! mlkj mlkjlmj mlkj mlj klmjmlj lm
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sample_code`
+```{python}
+
+```
+
+`@solution`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
