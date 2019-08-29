@@ -55,7 +55,7 @@ key: 1e85212270
 xp: 100
 ```
 
-oho this is a new exercise ! mlkj mlkjlmj mlkj mlj klmjmlj lm
+oho this is a new exercise ! mlkj mlkjlmj mlkj mlj klmjmlj lm!!
 
 `@instructions`
 
