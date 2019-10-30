@@ -82,3 +82,16 @@ oho this is a new exercise ! mlkj mlkjlmj mlkj mlj klmjmlj lm!!
 ```{python}
 
 ```
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise
+key: 08658a03e4
+xp: 50
+```
+
+`@projector_key`
+d3480badef395e424cb56526b1627b1c
